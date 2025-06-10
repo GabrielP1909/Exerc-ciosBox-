@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    height: 150px;
+    width: 300px;
+    padding: 20px;
+    background-color: #d3eaff;
+    border: 5px solid #333;
+
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+     
+}
+ 
+.margem {
+    height: 150px;
+    width: 300px;
+    padding: 20px;
+    background-color: #0026ff;
+    border: 5px solid #ff0000;
+}
